@@ -1,5 +1,5 @@
 # Ruby-Hostmaker
-> GTPS Host maker coded in Ruby
+> GTPS Host maker coded in Ruby (For Education Only)
 ## Require
 ```bash
 Ruby
@@ -14,3 +14,4 @@ Ruby
 
 ## Information
 > [![dc](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/885830821704003614/)
+> [![yt](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCE0bG6Uf2bzkoI-lxb-sQNw)
